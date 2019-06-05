@@ -6,6 +6,9 @@
  * Time: 17:57
  */
 
+error_reporting(E_ALL);
 phpinfo();
+
+
 
 
